@@ -1,7 +1,7 @@
 <h1>Controls-Assesment</h1>
 
 <h2>Description</h2>
-In this lab, we were tasked with evaluateing and implementing various controls within a fictional organization. The lab focused on giving us hands on experience with categorizing each control, determining if it needs to be implemented, as well as the priority level the control should be given.
+In this lab, we were tasked with evaluating and implementing various controls within a fictional organization. The lab focused on giving us hands on experience with categorizing each control, determining if it needs to be implemented, as well as the priority level the control should be given.
 <br />
 
 <h1>Walk-through:</h1>
